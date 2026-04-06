@@ -59,12 +59,12 @@ Content-Type: application/json
 
 ## 7. Video demo
 
-<h2 align="center">🎬 Demo Video</h2>
-
 <p align="center">
   <a href="https://youtu.be/dSWQBkTsDvg">
     <img src="https://img.youtube.com/vi/dSWQBkTsDvg/0.jpg" width="600">
   </a>
 </p>
 
-Link video: https://youtu.be/dSWQBkTsDvg
+<h2 align="center">Link video: https://youtu.be/dSWQBkTsDvg</h2>
+
+
