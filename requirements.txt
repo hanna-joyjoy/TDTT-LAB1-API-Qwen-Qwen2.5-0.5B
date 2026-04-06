@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+nest-asyncio
+omegaconf
+requests
+pydantic
